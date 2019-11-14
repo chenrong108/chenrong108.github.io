@@ -83,8 +83,12 @@ menus:
   -
     href: /link.html
     label: 友链
-    target: _blank
+    target: _self
 
+  -
+    href: /about.html
+    label: 关于
+    target: _self
 
 
 # Navigation. main menu list
@@ -131,11 +135,6 @@ navs:
   -
     href: /java.html
     label: Java
-    target: _self
-    
-  -
-    href: /about.html
-    label: About
     target: _self
 
 
