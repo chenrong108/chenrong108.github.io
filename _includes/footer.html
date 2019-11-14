@@ -34,9 +34,6 @@
             <a href="{{ nav.href }}" title="{{ nav.label }}" target="{{ nav.target | default: _self }}">{{ nav.label }}</a>
             {% endfor %}
         </div>
-<!--         <div class="site-footer-icons">
-               京ICP备15067287号-3
-        </div> -->
         <div class="scrolltop">
             粤ICP备19002146号-1
             <a href="javascript:window.scrollTo(0,0)" >TOP</a>
@@ -47,11 +44,11 @@
         </div>
     </div>
     <!-- Third-Party JS -->
-    <script type="text/javascript" src="/bower_components/geopattern/js/geopattern.min.js"></script>
+    <script type="text/javascript" src="https://image-chenrong.oss-cn-shenzhen.aliyuncs.com/bower_components/geopattern/js/geopattern.min.js"></script>
     <!-- My JS -->
-    <script type="text/javascript" src="/assets/js/script.js"></script>
+    <script type="text/javascript" src="https://image-chenrong.oss-cn-shenzhen.aliyuncs.com/assets/js/script.js"></script>
     {% for javascript in page.javascript %}
-    <script src="/assets/js/{{javascript}}"></script>
+    <script src="https://image-chenrong.oss-cn-shenzhen.aliyuncs.com/assets/js/{{javascript}}"></script>
     {% endfor %}
     
      <!-- Cnzz Analytics -->
