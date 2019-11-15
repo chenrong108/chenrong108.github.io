@@ -11,7 +11,7 @@
 
 ## 我的微信公众号
 
-<img src=https://image-chenrong-public.oss-cn-shenzhen.aliyuncs.com/image/person/card.png width="230px" height="230px"></img>
+<img src=https://image-chenrong-public.oss-cn-shenzhen.aliyuncs.com/image/person/card.png width="240px" height="240px"></img>
 
 
 ## 微笑大神的微信公众号
