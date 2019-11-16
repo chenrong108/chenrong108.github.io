@@ -238,6 +238,11 @@ classes:
     href: /database.html
     name: 数据库
     describe: 探索数据存储的奥秘
+    
+  -
+    href: /algorithm.html
+    name: 算法
+    describe: 追求极致的速度
 
 
 # ---------------- #
