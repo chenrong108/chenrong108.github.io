@@ -40,19 +40,19 @@ excerpt: 双指针、排序、贪心、二分查找、分治、搜索、DP、链
 
 ## 二分查找
 
-| 题号 | 题目名称 |
-| ---- | -------- |
-|      |          |
-|      |          |
-|      |          |
+| 题号 | 题目名称                                                     |
+| ---- | ------------------------------------------------------------ |
+| 69   | <a href="https://github.com/chenrong108/chenrong108.github.io/blob/master/algorithm/leetcode/69.md" target="_blank">Sqrt(x) (Easy)</a> |
+|      |                                                              |
+|      |                                                              |
 
 
 ## 动态规划
 
-| 题号 | 题目名称 |
-| ---- | -------- |
-| 70   | <a href="https://github.com/chenrong108/chenrong108.github.io/blob/master/algorithm/leetcode/70.md" target="_blank">Climbing Stairs (Easy)       |
-|      |          |
-|      |          |
+| 题号 | 题目名称                                                     |
+| ---- | ------------------------------------------------------------ |
+| 70   | <a href="https://github.com/chenrong108/chenrong108.github.io/blob/master/algorithm/leetcode/70.md" target="_blank">Climbing Stairs (Easy)</a> |
+|      |                                                              |
+|      |                                                              |
 
 
