@@ -3,7 +3,7 @@ layout: post
 title: LeetCode 题解
 category: algorithm
 tags: [algorithm]
-excerpt: 双指针、排序、贪心、二分查找、分治、搜索、Dp、链表、树、栈和队列、哈希表、位运算
+excerpt: 双指针、排序、贪心、二分查找、分治、搜索、DP、链表、树、栈和队列、哈希表、位运算
 ---
 
 
