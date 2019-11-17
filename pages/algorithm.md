@@ -12,10 +12,10 @@ permalink: /algorithm
 
     <div class="col-md-12">
 
-<h1>LeetCode</h1>
-<br>
-<h3>双指针</h3>
-<figure>
+    <h1>LeetCode</h1>
+    <br>
+    <h3>双指针</h3>
+    <figure>
 	<table>
 		<thead>
 			<tr>
@@ -40,8 +40,8 @@ permalink: /algorithm
 			</tr>
 		</tbody>
 	</table>
-</figure>
-<p>&nbsp;</p>
+    </figure>
+    <p>&nbsp;</p>
 
     </div>
 
