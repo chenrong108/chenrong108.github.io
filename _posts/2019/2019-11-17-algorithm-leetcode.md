@@ -12,7 +12,7 @@ excerpt: 双指针、排序、贪心、二分查找、分治、搜索、Dp、链
 
 | 题号 |                           题目名称                           |
 | ---- | :----------------------------------------------------------: |
-| 167  | <a href="https://github.com/chenrong108/chenrong108.github.io/blob/master/algorithm/leetcode/167.md">Two Sum II - Input array is sorted (Easy)</a> |
+| 167  | <a href="https://github.com/chenrong108/chenrong108.github.io/blob/master/algorithm/leetcode/167.md" target="_blank">Two Sum II - Input array is sorted (Easy)</a> |
 |      |                                                              |
 |      |                                                              |
 
