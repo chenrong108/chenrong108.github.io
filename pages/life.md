@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 你的生活和我一样吗
+title: 生活故事篇
 titlebar: life
 subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 你的生活有什么故事？
 menu: life
