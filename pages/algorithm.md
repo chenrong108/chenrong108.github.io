@@ -16,7 +16,7 @@ permalink: /algorithm
     <br>
     <h3>双指针</h3>
     <figure>
-	<table>
+	<table border="1px">
 		<thead>
 			<tr>
 				<th>题号</th>
