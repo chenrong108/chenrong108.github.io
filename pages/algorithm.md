@@ -12,36 +12,19 @@ permalink: /algorithm
 
     <div class="col-md-12">
 
-    <h1>LeetCode</h1>
-    <br>
-    <h3>双指针</h3>
-    <figure>
-	<table border="1px">
-		<thead>
-			<tr>
-				<th>题号</th>
-				<th style='text-align:center;'>题目名称</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>167</td>
-				<td style='text-align:center;'>
-					<a href='http://www.chenrong.xyz'>Two Sum II - Input array is sorted (Easy)</a>
-				</td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td style='text-align:center;'>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td style='text-align:center;'>&nbsp;</td>
-			</tr>
-		</tbody>
-	</table>
-    </figure>
-    <p>&nbsp;</p>
+        <ul id="posts-list">
+            {% for post in site.posts %}
+                {% if post.category=='algorithm'  or post.keywords contains 'algorithm' %}
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+                        <a class="posts-list-name bubble-float-left" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                        <span class='circle'></span>
+                    </div>
+                </li>
+                {% endif %}
+            {% endfor %}
+        </ul> 
 
     </div>
 
