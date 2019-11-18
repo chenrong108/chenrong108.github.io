@@ -47,6 +47,7 @@ excerpt: 双指针、排序、贪心、二分查找、分治、搜索、DP、链
 |      |                                                              |
 
 
+
 ## 动态规划
 
 | 题号 | 题目名称                                                     |
@@ -55,4 +56,23 @@ excerpt: 双指针、排序、贪心、二分查找、分治、搜索、DP、链
 |      |                                                              |
 |      |                                                              |
 
+
+
+## 分治
+
+| 题号 | 题目名称                                                     |
+| ---- | ------------------------------------------------------------ |
+| 95   | <a href="https://github.com/chenrong108/chenrong108.github.io/blob/master/algorithm/leetcode/95.md" target="_blank">Unique Binary Search Trees II (Medium)</a> |
+|      |                                                              |
+|      |                                                              |
+
+
+
+## 搜索
+
+| 题号 | 题目名称 |
+| ---- | -------- |
+|      |          |
+|      |          |
+|      |          |
 
