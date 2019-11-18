@@ -76,3 +76,13 @@ excerpt: 双指针、排序、贪心、二分查找、分治、搜索、DP、链
 |      |          |
 |      |          |
 
+
+
+## 位运算
+
+| 题号 | 题目名称                                                     |
+| ---- | ------------------------------------------------------------ |
+| 29   | <a href="https://github.com/chenrong108/chenrong108.github.io/blob/master/algorithm/leetcode/29.md" target="_blank">两数相除(中等)</a> |
+|      |                                                              |
+|      |                                                              |
+
