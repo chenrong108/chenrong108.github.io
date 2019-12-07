@@ -37,7 +37,7 @@ excerpt: 匿名内部类的作用、注意事项、应用场景
     public abstract class People{
         public abstarct void say();
     }
-   ``` 
+   ```
    ``` java
    public class MyTest{
        // 测试类
@@ -53,15 +53,15 @@ excerpt: 匿名内部类的作用、注意事项、应用场景
    }
    ```
    这样子我们就不用额外编写一个子类了，也不需要为子类的命名烦恼，同时也可以实现相应的功能。
-   
+
 ## 匿名内部类的作用
    实例化抽象类，减少重新创建一个类的代码编写，同时不会因为类命名而烦恼。当然，匿名内部类也可以用在接口上的。
    ``` java
-       // 父类
-       public interface class People{
-              public abstarct void say();
-       }
-   ``` 
+  // 父类
+   public interface class People{
+       void say();
+   }
+   ```
    ``` java
    public class MyTest{
        // 测试类
@@ -78,7 +78,7 @@ excerpt: 匿名内部类的作用、注意事项、应用场景
        }
    }
    ```
-   
+
 ## 注意事项
 - 匿名内部类同内部类一样要依赖外部类的存在而存在，因此匿名内部类不允许出现静态的变量、方法块及方法。
 - 匿名内部类可以访问外部类局部方法里面的局部变量，但是不能修改局部变量。（具体请查看内部类的相关知识）
