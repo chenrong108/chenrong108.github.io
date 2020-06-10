@@ -298,3 +298,11 @@ skill_mobile_app_keywords: [vuejs, hyhird app]
 # 在使用其它评论组件时可点击显示 Disqus
 # lazy_load_disqus : true
 # theme: jekyll-theme-cayman
+  gitalk: true
+  gitalk_clientID: '676e603470dbb3a1685e'
+  gitalk_Secret: '1bc8ba67ee3a9aca37f005b932b4ba5e3c087962'
+  gitalk_repo: 'chenrong108.github.io'
+  gitalk_owner: 'chenrong108'
+  gitalk_admin: 'chenrong108'
+  distractionFreeMode: true
+
