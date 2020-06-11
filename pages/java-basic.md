@@ -25,6 +25,11 @@ permalink: /java-basic
                 {% endif %}
             {% endfor %}
         </ul> 
+        
+        <!-- Comments -->
+        <div class="comment">
+         {% include comments.html %}
+        </div>
 
     </div>
 
