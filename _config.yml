@@ -292,7 +292,7 @@ comments_provider: gitalk
 # https://github.com/gitalk/gitalk#install
 gitalk:
      owner: chenrong108
-     repo: blog-comments
+     repo: chenrong108.github.io
      clientID: 676e603470dbb3a1685e
      clientSecret: 1bc8ba67ee3a9aca37f005b932b4ba5e3c087962
 # 在使用其它评论组件时可点击显示 Disqus
