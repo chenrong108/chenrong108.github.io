@@ -1,20 +1,20 @@
 ---
 layout: page
-title: 工具
-titlebar: tool
-subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 工具系列文章
-menu: tool
+title: 实战
+titlebar: actual-combat
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 实战类相关文章
+menu: actual-combat
 css: ['blog-page.css']
-permalink: /tool
+permalink: /actual-combat
 ---
 
 <div class="row">
 
     <div class="col-md-12">
-
+    
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='tool'  or post.keywords contains 'tool' %}
+                {% if post.category=='actual-combat'  or post.keywords contains 'actual-combat' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
@@ -25,7 +25,7 @@ permalink: /tool
                 {% endif %}
             {% endfor %}
         </ul> 
-
+    
     </div>
 
 </div>
@@ -34,6 +34,6 @@ permalink: /tool
 
         // Enable bootstrap tooltip
         $("body").tooltip({ selector: '[data-toggle=tooltip]' });
-
+    
     });
 </script>

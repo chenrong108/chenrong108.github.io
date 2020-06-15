@@ -161,10 +161,6 @@ labels:
     label: Redis
     target: _self
 
-  -
-    href: /tool.html
-    label: 工具
-    target: _self
 
   -
     href: /unit-test.html
@@ -204,6 +200,12 @@ labels:
     href: /design-pattern.html
     label: 设计模式
     target: _self
+    
+  -
+    href: /actual-combat.html
+    label: 实战
+    target: _self
+    
     
   -
     href: /life.html
