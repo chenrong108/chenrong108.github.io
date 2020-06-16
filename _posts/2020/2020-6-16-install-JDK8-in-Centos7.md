@@ -8,13 +8,13 @@ excerpt: 详细介绍在Centos7上安装JDK8的步骤，并且提供JDK8的下�
 
 ## 01 下载 JDK
 
-大家可以选择去 Oracle 官网选择对应的 JDK 版本自主 [下载](https://www.oracle.com/java/technologies/javase-downloads.html) ，当然也可以使用笔者准备好的 JDK8 ，[点我](https://pan.baidu.com/s/1dUSep8tnx5k28KeXmenROw)，提取码为：x42l 。
+大家可以选择去 Oracle 官网选择对应的 JDK 版本自主 [下载](https://www.oracle.com/java/technologies/javase-downloads.html) ，当然也可以使用笔者准备好的 JDK8 ，[点我](https://pan.baidu.com/s/1CRggR0Joshz9P8pw3sZ6DA)，提取码为：4ykp 。
 
 
 
 ## 02 上传 JDK 到 Centos7
 
-通过 WinSCP 工具将 JDK8 tar 包上传到服务器，提供 WinSCP 文件上传工具的下载链接，[点我](https://pan.baidu.com/s/1zZQxnruysDGPVZs4ZoQkhw)，提取码：lgf2 。
+通过 WinSCP 工具将 JDK8 tar 包上传到服务器，提供 WinSCP 文件上传工具的下载链接，[点我](https://pan.baidu.com/s/1KjfomDf0VBvx8VaguWM4nA)，提取码：r5se 。
 
 首先在Centos7创建文件夹。
 
