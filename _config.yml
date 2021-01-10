@@ -136,6 +136,11 @@ navs:
     href: /java.html
     label: Java
     target: _self
+    
+  -
+    href: /java.html
+    label: 生活
+    target: _self
 
 
 # labels. my blog key words
